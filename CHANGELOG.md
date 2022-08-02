@@ -1,3 +1,7 @@
+## 3.7.0 (2022-08-02)
+
+- Updated dependencies.
+
 ## 3.6.0 (2018-02-27)
 
 - Added Webpack 4 support.

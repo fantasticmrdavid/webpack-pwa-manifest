@@ -30,13 +30,16 @@
   },
   "author": "Arthur A. Bergamaschi <arthurbergmz@gmail.com>",
   "license": "MIT",
+  "overrides": {
+    "jpeg-js": "0.4.4"
+  },
   "dependencies": {
     "css-color-names": "1.0.1",
-    "jimp": "0.16.1",
+    "jimp": "0.16.0",
     "mime": "2.4.6"
   },
   "devDependencies": {
-    "@babel/cli": "7.12.1",
+    "@babel/cli": "7.18.10",
     "@babel/core": "7.12.3",
     "@babel/preset-env": "7.12.1",
     "babel-eslint": "10.1.0",
